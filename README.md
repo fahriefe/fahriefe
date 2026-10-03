@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+fahriefe+%F0%9F%91%8B;Data+Specialist;Veriden+i%C3%A7g%C3%B6r%C3%BC+%C3%BCretirim+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=fahriefe&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Data%20Specialist%20%E2%80%A2%20Analytics%20%E2%80%A2%20Insights&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fahriefe&color=58a6ff&style=flat-square&label=PROFIL+G%C3%96R%C3%9CNT%C3%9CLENME)
 
@@ -61,4 +61,5 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" width="100%" />
 
