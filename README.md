@@ -13,7 +13,7 @@
 - 🔭 Ham veriyi karar destekleyen içgörülere dönüştürüyorum
 - 🧠 Şu an öğrendiğim: *(ör. Machine Learning, dbt, Spark)*
 - 📈 Odak alanlarım: veri analizi, görselleştirme, ETL, dashboard
-- 📫 İletişim: *(e-posta / LinkedIn)*
+- 📫 İletişim: [fahriefeyaniklarr@gmail.com](mailto:fahriefeyaniklarr@gmail.com) • [LinkedIn](https://www.linkedin.com/in/fahriefeyaniklar)
 
 ### 🛠️ Teknoloji Yığını
 
@@ -97,5 +97,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" width="100%" />
+
 
 
